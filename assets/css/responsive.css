@@ -1,0 +1,1448 @@
+@media (min-width: 1200px) {
+
+    header .container,
+    .section-1 .container,
+    .section-2 .container,
+    .section-3 .container,
+    .section-4 .container,
+    .section-5 .container,
+    footer .container {
+        max-width: 1275px;
+    }
+}
+@media (max-width: 1800px) {}
+@media (max-width: 1600px) {
+    .ballon-3 {
+        top: 60px;
+    }
+    .poweredby {
+        top: 100px;
+    }
+    .section-2::after {
+        background-size: 137% 116%;
+    }
+}
+@media (max-width: 1440px) {
+    .Typeform_Quiz_iFrame {
+        min-height: 500px;
+    }
+    .top_part {
+        min-height: 400px;
+    }
+    .sec-3-text {
+        margin-top: -60px;
+    }
+    .section-3 {
+        padding-bottom: 100px;
+    }
+    .section-4 {
+        margin: 50px 0px 50px 0px;
+        padding: 135px 0px 155px 0px;
+    }
+    .section-5 {
+        padding: 100px 0px 100px 0px;
+    }
+    .footer_wrapper {
+        padding-top: 180px;
+        margin-top: 30px;
+    }
+    .section-1 {
+        padding-bottom: 160px;
+    }
+    .section-2 {
+        padding: 170px 0px 150px 0px;
+        margin-bottom: 72px;
+        margin-top: 72px;
+    }
+    .section-2::before {
+        background-size: 192%;
+        filter: brightness(0.9);
+        bottom: 0px;
+    }
+    .section-2::after {
+        width: 100%;
+        height: 100%;
+        left: 0px;
+        top: 0px;
+        background-size: 228%;
+        filter: brightness(2);
+
+    }
+}
+
+@media (max-width: 1360px) {
+
+    .sec-3-right {
+        padding-left: 80px;
+    }
+
+    .content-tech2 p {
+        margin-left: 35px;
+    }
+
+    .waiting_animation {
+        margin-left: 2.5rem;
+    }
+
+}
+
+@media (max-width: 1280px) {}
+
+@media (max-width: 1199px) {
+    header {
+        padding: 35px 0px 35px 0px;
+    }
+
+    .left-col {
+        width: 42%;
+    }
+
+    .path_text h1 {
+        font-size: 52px;
+        line-height: 65px;
+    }
+
+    .right-col {
+        width: calc(100% - 42%);
+        padding-left: 42px;
+    }
+
+    .text_gr::before {
+        background-size: cover;
+        width: 50px;
+        height: 57px;
+        right: 7%;
+        bottom: 0;
+    }
+
+    .person_img2 img {
+        margin-left: 4rem;
+        max-width: 160px;
+    }
+
+    .home-img-3 img {
+        max-width: 100px;
+    }
+
+    .person_img img {
+        max-width: 410px;
+    }
+
+    /* section-2 */
+    .modal-img img {
+        max-width: 280px;
+    }
+
+    .sec-2-left {
+        width: 350px;
+    }
+
+    .sec-2-right {
+        width: calc(100% - 350px);
+    }
+
+    .modal-img::before {
+        right: 0%;
+        bottom: -27%;
+        width: 154px;
+        height: 231px;
+    }
+
+    .top_content {
+        top: -7.5%;
+    }
+
+    .shape-1 {
+        top: -4%;
+    }
+
+    .shape-2 {
+        bottom: -4%;
+
+    }
+
+    .content-left-t .text-white {
+        font-size: 18px;
+    }
+
+    .round-x {
+        left: 2%;
+        top: 0%;
+    }
+
+    .slide {
+        padding: 12px;
+        margin-bottom: 15px;
+    }
+
+    .cage_text {
+        font-size: 16px;
+        line-height: normal;
+    }
+
+    .cage {
+        width: 52px;
+        height: 52px;
+        margin-right: 15px;
+    }
+
+    .slide img {
+        max-width: 50%;
+    }
+
+
+    .section-1 {
+        padding-bottom: 140px;
+    }
+
+    .section-2 {
+        padding: 150px 0px 125px 0px;
+    }
+
+    .top_part {
+        min-height: 350px;
+    }
+
+    .sec-3-left {
+        width: 40%;
+    }
+
+    .content-tech h3 {
+        font-size: 48px;
+        line-height: normal;
+    }
+
+    .sec-3-right {
+        width: 60%;
+        padding-left: 50px;
+
+    }
+
+    img[ alt=land],
+    img[ alt=land-img-5],
+    img[ alt=land-img-4],
+    img[ alt=land-img-6],
+    img[ alt=you-raed-img] {
+        max-width: 82%;
+    }
+
+
+    img[ alt=your-icon2],
+    img[ alt=your-icon3],
+    img[ alt=your-icon6],
+    img[ alt=your-icon4],
+    img[ alt=your-icon5],
+    img[ alt=your-icon1] {
+        max-width: 35px;
+    }
+
+    .with-chicago-content .company_shape {
+        max-width: 50%;
+    }
+
+    .Startups_content .company_shape {
+        max-width: 58%;
+    }
+
+    .Community {
+        width: 165px;
+        height: 165px;
+
+    }
+
+    .inner_text,
+    .content-tech2 p,
+    .sec-3-text h2,
+    .text-chicago p,
+    .content-left-t h3,
+    .inner_text,
+    .Startups_content .text-start .company_shape p,
+    .want_text p,
+    .want_text h3,
+    .img_cover p,
+    .poweredby p {
+        line-height: normal;
+    }
+
+    .inner_text,
+    .content-left-t p {
+        font-size: 16px;
+    }
+
+
+    .preperd {
+
+        width: 220px;
+        height: 80px;
+
+    }
+
+    .content-tech2 p {
+        font-size: 18px;
+        padding-top: 15px;
+        margin-left: 20px;
+    }
+
+    .sec-3-text h2 {
+        font-size: 58px;
+        margin: 15px 0px 15px 0px;
+    }
+
+    .section-3 {
+        padding-bottom: 60px;
+    }
+
+    .top_shape {
+        top: calc(0% - 30.75px);
+    }
+
+    .section-4 {
+        position: relative;
+        padding: 120px 0px;
+    }
+
+    .shape-chicago {
+        width: 320px;
+        height: 320px;
+
+
+    }
+
+    .Startups_content .text-start,
+    .shape-chicago {
+        margin-bottom: 30px;
+    }
+
+    .Startups_content .text-start .company_shape p {
+
+        font-size: 22px;
+
+    }
+
+    .text-chicago p {
+        font-size: 48px;
+    }
+
+    .text-chicago {
+        left: 78px;
+    }
+
+    .content-left-t h3 {
+        font-size: 46px;
+
+    }
+
+    .section-5 {
+        padding: 80px 0px;
+    }
+
+    .want_text h3 {
+        font-size: 58px;
+
+    }
+
+    .Want_started {
+
+        margin-bottom: 45px;
+    }
+
+    .poweredby {
+        top: 30px;
+    }
+
+    .Ready_to_go h5 {
+        font-size: 50px;
+        line-height: 70px;
+        margin: 8px 0px 35px 0px;
+    }
+
+    .footer_wrapper {
+        padding-top: 130px;
+    }
+
+    .Ready_to_go {
+        margin-bottom: 3rem;
+    }
+
+}
+
+@media (max-width: 991px) {
+    .content-tech2 .tech_img {
+        margin-left: 1em;
+        text-align: center;
+        max-width: 100px;
+    }
+
+    .top_part {
+        min-height: 280px;
+    }
+
+    .section-1 {
+        padding-bottom: 90px;
+    }
+
+    .sec-2-right::before {
+        width: 100%;
+    }
+
+    header {
+        padding: 20px 0px 20px 0px;
+    }
+
+    .text-head {
+        font-size: 16px;
+    }
+
+    .right-col {
+        width: 100%;
+        order: -1;
+        padding-left: unset;
+        margin-bottom: 30px;
+    }
+
+    .person_img {
+        text-align: center;
+    }
+
+    .round1 {
+        left: 10%;
+        top: 30%;
+    }
+
+    .round3 {
+        right: 15%;
+    }
+
+    .round2 {
+        right: 70%;
+        bottom: 25%;
+    }
+
+    .home-img-3 {
+
+        right: 16%;
+        top: 58%;
+    }
+
+    .person_img2 {
+        margin-top: 0px;
+        text-align: unset;
+    }
+
+    .left-col {
+        width: 100%;
+    }
+
+    .rotat {
+        left: 79%;
+    }
+
+    .path_text h1 {
+        max-width: 50%;
+    }
+
+    .path_text h1 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+
+    .text_gr::before {
+        width: 38px;
+        height: 42px;
+    }
+
+    .text_gr {
+        margin-top: 0px;
+    }
+
+    /* section-2 */
+    .sec-2-left {
+        width: 100%;
+        text-align: center;
+    }
+
+    .sec-2-right {
+        width: 100%;
+        margin-top: 70px;
+    }
+
+    .modal-img::before {
+        right: 19%;
+        bottom: -10%;
+        width: 133px;
+        height: 199px;
+    }
+
+    .round-y {
+        bottom: 6%;
+        right: 10%;
+    }
+
+    .icon-a {
+        left: 18%;
+        bottom: 5%;
+    }
+
+    .round-x {
+        left: 22%;
+        top: 3%;
+    }
+
+    .icon-b {
+        right: 14%;
+    }
+
+    .shape-1 {
+        top: -2%;
+    }
+
+    .top_content {
+        top: -4.5%;
+    }
+
+    .shape-2 {
+        bottom: -3%;
+    }
+
+    .sec-2-text h3 {
+        font-size: 42px;
+        line-height: normal;
+        margin-top: 15px;
+    }
+
+    .sec-2-text {
+        margin-bottom: 75px;
+        text-align: center;
+    }
+
+    .sec-2-text h6 {
+        font-size: 16px;
+        line-height: normal;
+
+    }
+    .sec-3-text h2 {
+        font-size: 42px;
+        margin: 10px 0px;
+    }
+
+    .sec-3-left,
+    .sec-3-right {
+        width: 100%;
+        padding-left: 0px;
+    }
+
+    .sec-3-left {
+        margin-bottom: 50px;
+    }
+
+    .content-tech2 {
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .right-col .tech_img {
+        text-align: center;
+    }
+
+    .content-tech2 p {
+
+        padding-top: 0px;
+
+    }
+
+    .sec-3-right .col-6 {
+        margin-bottom: 20px;
+    }
+
+    .content-tech h3 {
+        font-size: 38px;
+        margin: 8px 0px;
+    }
+
+    .inner_text {
+        font-size: 14px;
+    }
+
+    .top_shape {
+        top: calc(0% - 11.75px);
+    }
+
+    .bottom_shape {
+
+        top: 99%;
+    }
+
+    .Startups_content .text-start,
+    .shape-chicago {
+        margin-bottom: 0px;
+    }
+
+    .section-4 {
+
+        padding: 90px 0px;
+        margin: 40px 0px 35px 0px;
+    }
+
+
+    .want_text h3 {
+        font-size: 42px;
+    }
+
+    .want_text p {
+        font-size: 24px;
+    }
+
+    .icon_hanger {
+        width: 125px;
+        height: 125px;
+    }
+
+    .icon_hanger img {
+        max-width: 30px;
+    }
+
+    .Typeform_Quiz_iFrame {
+        min-height: 400px;
+    }
+
+    .Typeform_Quiz_iFrame h6 {
+        font-size: 36px;
+    }
+
+    .section-5 {
+        padding: 60px 0px 80px 0px;
+    }
+
+    .footer_wrapper {
+        padding-top: 80px;
+        margin-top: 15px;
+    }
+
+    .top_footer_shape {
+        top: -20px;
+    }
+
+    .Ready_to_go h5 {
+        font-size: 40px;
+        line-height: normal;
+        margin: 8px 0px 30px 0px;
+    }
+
+    .img_cover img {
+        max-width: 80%;
+    }
+
+    .img_cover p {
+        font-size: 12px;
+    }
+
+    .ballon-3 {
+        top: 20px;
+    }
+
+    .round-z {
+        right: 26%;
+    }
+
+    .section-2 {
+        padding: 150px 0px 80px 0px;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .head-btn {
+        padding: 12px 24px;
+
+    }
+
+    .person_img img {
+        max-width: 320px;
+    }
+
+    .person_img2 img {
+
+        max-width: 110px;
+    }
+
+    .home-img-3 img {
+        max-width: 70px;
+    }
+
+    .path_text h1 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .path_text p {
+        font-size: 12px;
+        line-height: normal;
+    }
+
+    .top_content {
+        width: 400px;
+    }
+
+    .box1 {
+        width: 111px;
+        min-height: 99px;
+
+    }
+
+    .box1 span,
+    .box2 p {
+        font-size: 24px;
+    }
+
+    .box1 p,
+    .box2 span,
+    .box3 span {
+        font-size: 12px;
+    }
+
+    .box2 {
+        width: 120px;
+        min-height: 106px;
+    }
+
+    .box3 {
+        width: 120px;
+        min-height: 100px;
+    }
+
+    .box3 p {
+        font-size: 18px;
+
+    }
+
+    .section-2 {
+        padding: 110px 0px 70px 0px;
+    }
+
+ 
+    .shape-2 {
+        bottom: -2%;
+    }
+
+    .icon-a {
+        left: 10%;
+    }
+
+    .icon-b {
+        right: 5%;
+    }
+
+    .sec-2-text h3 {
+        font-size: 36px;
+
+        margin-top: 10px;
+    }
+
+    .sec-2-text {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    .modal-img img {
+        max-width: 220px;
+    }
+
+    .modal-img::before {
+        right: 19%;
+        bottom: -6%;
+        width: 94px;
+        height: 141px;
+    }
+
+    .icon-a img,
+    .icon-b img {
+        max-width: 74%;
+    }
+
+    .slide {
+        display: inline-flex;
+    }
+
+    .top_part {
+        min-height: 200px;
+    }
+
+    .sec-3-text h2 {
+        font-size: 32px;
+        margin: 5px 0px;
+    }
+
+    .content-tech h3 {
+        font-size: 32px;
+        margin: 5px 0px;
+    }
+
+    img[ alt=land],
+    img[ alt=land-img-5],
+    img[ alt=land-img-4],
+    img[ alt=land-img-6],
+    img[ alt=you-raed-img] {
+        max-width: 72%;
+    }
+
+    .content-tech p {
+        font-size: 14px;
+        line-height: normal;
+    }
+
+    .content-tech2 p {
+        font-size: 16px;
+    }
+
+    .want_text p {
+        font-size: 20px;
+    }
+
+    .want_text h3,
+    .Typeform_Quiz_iFrame h6 {
+        font-size: 32px;
+    }
+
+    .Want_started {
+        flex-wrap: wrap-reverse;
+    }
+
+    .want_text {
+        width: 100%;
+    }
+
+    .icon_hanger {
+        margin-bottom: 1rem;
+    }
+
+    .icon_hanger {
+        width: 100px;
+        height: 100px;
+    }
+
+    .icon_hanger img {
+        max-width: 25px;
+    }
+
+    .section-5 {
+        padding: 50px 0px 80px 0px;
+    }
+
+    .Typeform_Quiz_iFrame {
+        min-height: 350px;
+    }
+
+    .img_cover img {
+        max-width: 60%;
+    }
+
+    .img_cover p {
+        font-size: 9px;
+    }
+
+    .ballon-1 {
+        top: -56px;
+        right: 1%;
+    }
+
+    .Ready_to_go h5 {
+        font-size: 28px;
+        margin: 0px 0px 20px 0px;
+    }
+
+    .Ready_to_go p {
+        font-size: 18px;
+        line-height: normal;
+    }
+
+    .poweredby p {
+        font-size: 14px;
+        margin-bottom: 0px;
+    }
+
+    .poweredby img {
+        max-width: 23px;
+    }
+
+    .ballon-3 {
+        top: 10px;
+        right: 26%;
+    }
+
+    .Ready_to_go .head-btn {
+        padding: 8px 16px;
+        font-size: 14px;
+        border-radius: 15px;
+    }
+
+    .poweredby {
+        top: 0px;
+    }
+
+}
+
+@media (max-width: 575px) {
+    img[ alt=land-img-4] {
+        max-width: 95% !important;
+    }
+
+    .content-tech2 p {
+        margin-left: 45px;
+    }
+
+    .round-z {
+        right: 7%;
+    }
+
+    .text-head,
+    .head-btn,
+    .cage_text {
+        font-size: 14px;
+    }
+
+    .img-x {
+        padding-right: 12px;
+    }
+
+    img[ alt=p33] {
+        max-width: 20%;
+    }
+
+    .person_img2 {
+        text-align: left;
+    }
+
+    .round1 {
+        top: 0%;
+    }
+
+    .round2 {
+        right: 38%;
+        bottom: 10%;
+    }
+
+    .round3 {
+        right: 6%;
+        top: 10%;
+    }
+
+    .path_text h1 {
+        max-width: 66%;
+    }
+
+    .path_text h1 {
+        font-size: 28px;
+        line-height: normal;
+    }
+
+    .text_gr::before {
+        width: 30px;
+        height: 30px;
+    }
+
+    .rotat {
+        left: 75%;
+        width: 55px;
+        bottom: 0%;
+        height: 55px;
+        background-size: 50%;
+    }
+
+
+    .sec-2-right ul li:nth-child(1),
+    .sec-2-right ul li:nth-child(2),
+    .sec-2-right ul li:nth-child(3),
+    .sec-2-right ul li:nth-child(4),
+    .sec-2-right ul li:nth-child(5),
+    .sec-2-right ul li:nth-child(6) {
+        max-width: unset;
+
+    }
+
+    .sec-2-right ul li:nth-child(1) {
+        margin-left: 30px;
+    }
+
+    .sec-2-right ul li:nth-child(2) {
+
+        margin-left: 90px;
+    }
+
+    .sec-2-right ul li:nth-child(4) {
+
+        margin-left: 70px;
+    }
+
+    .sec-2-right ul li:nth-child(6) {
+
+        margin-left: 70px;
+
+    }
+
+    .sec-2-right ul li:nth-child(5) {
+
+        margin-left: 140px;
+    }
+
+    .slide {
+        margin-bottom: 12px;
+        border-radius: 14px;
+    }
+
+
+
+    .cage {
+        width: 32px;
+        height: 32px;
+        margin-right: 9px;
+    }
+
+    .top_content {
+        width: 100%;
+        justify-content: space-evenly;
+    }
+
+    .shape-2 {
+        bottom: -1%;
+    }
+
+    .round-x {
+        left: 3%;
+
+    }
+
+    .round-y {
+        bottom: 0%;
+        right: 90%;
+    }
+
+    .sec-2-text h3 {
+        font-size: 28px;
+        margin-top: 5px;
+    }
+
+   
+
+    .sec-3-right .parent {
+        text-align: center;
+    }
+
+    .sec-3-right .col-6 {
+        margin-bottom: 20px !important;
+    }
+
+    img[ alt=land],
+    img[ alt=land-img-5],
+    img[ alt=land-img-4],
+    img[ alt=land-img-6],
+    img[ alt=you-raed-img] {
+        max-width: 80%;
+    }
+
+    .top_part {
+        min-height: 120px;
+    }
+
+    .sec-3-text h2,
+    .content-tech h3 {
+        font-size: 24px;
+    }
+
+    .sec-3-text p,
+    .left-text_p,
+    .content-left-t p {
+        font-size: 12px;
+    }
+
+    .section-3 {
+        padding-bottom: 40px;
+    }
+
+    img[ alt=your-icon2],
+    img[ alt=your-icon3],
+    img[ alt=your-icon6],
+    img[ alt=your-icon4],
+    img[ alt=your-icon5],
+    img[ alt=your-icon1] {
+        max-width: 25px;
+    }
+
+    .shape-chicago {
+        width: 160px;
+        height: 160px;
+    }
+
+    .text-chicago p,
+    .want_text h3 {
+        font-size: 24px;
+    }
+
+    .text-chicago {
+        left: 44px;
+    }
+
+    img[alt=high-five] {
+        max-width: 25px;
+    }
+
+    .hand {
+        width: 40px;
+        height: 40px;
+    }
+
+    .content-left-t h3,
+    .Typeform_Quiz_iFrame h6 {
+        font-size: 24px;
+    }
+
+    .Startups_content .text-start .company_shape p,
+    .content-left-t .text-white,
+    .want_text p {
+        font-size: 16px;
+    }
+
+    .waiting_animation img:last-child {
+        left: 5%;
+        top: -76%;
+        transform: translate(-5%, 76%);
+        max-width: 70px;
+    }
+
+    .waiting_animation p,
+    .Ready_to_go p {
+        font-size: 16px;
+
+    }
+
+    .Community {
+        width: 125px;
+        height: 125px;
+    }
+
+    .section-5 {
+        padding: 40px 0px 50px 0px;
+    }
+
+    .Typeform_Quiz_iFrame {
+        min-height: 300px;
+    }
+
+    .Want_started {
+        margin-bottom: 25px;
+    }
+
+    .icon_hanger {
+        width: 70px;
+        height: 70px;
+    }
+
+    .icon_hanger img {
+        max-width: 15px;
+    }
+
+    .top_footer_shape {
+        top: -14px;
+    }
+
+    .Ready_to_go h5 {
+        font-size: 26px;
+    }
+
+    .Ready_to_go .head-btn {
+        padding: 4px 9px;
+        font-size: 12px;
+        border-radius: 10px;
+    }
+
+    .Ready_to_go br {
+        display: none;
+    }
+
+    .img_cover img {
+        max-width: 50%;
+    }
+
+    .img_cover p {
+        font-size: 7px;
+    }
+
+    .ballon-2 {
+        top: -20px;
+        left: 18%;
+    }
+
+    .poweredby img {
+        max-width: 18px;
+    }
+
+    .poweredby p {
+        font-size: 12px;
+
+    }
+
+    .Ready_to_go {
+        margin-bottom: 7rem;
+    }
+
+    .ballon-3 {
+        top: -67px;
+        right: 36%;
+    }
+
+    .poweredby {
+        top: -30px;
+    }
+
+    img[alt=your-icon2],
+    img[alt=want-circle-arrow],
+    img[alt=your-icon3],
+    img[alt=your-icon6],
+    img[alt=your-icon4],
+    img[alt=your-icon5] {
+        animation-play-state: paused;
+    }
+
+    .section-1 {
+        padding-bottom: 50px;
+    }
+
+    .with-chicago-content .company_shape {
+        max-width: 150px;
+    }
+
+    .Startups_content .company_shape {
+        max-width: 165px;
+    }
+
+    .col-lg-6 .with-chicago-content,
+    .col-lg-6 .Startups_content {
+        padding: 0px 5.5em;
+    }
+
+    .section-4 {
+
+        margin: 20px 0px 30px 0px;
+    }
+}
+
+@media (max-width: 450px) {
+    .waiting_animation img:last-child {
+        left: 7%;
+    }
+
+    .waiting_animation {
+        margin-left: 0rem;
+    }
+
+    .col-lg-6 .with-chicago-content,
+    .col-lg-6 .Startups_content {
+        padding: 0px 2.5em;
+    }
+}
+
+@media (max-width: 400px) {
+    .modal-img img {
+        max-width: 180px;
+    }
+
+    .modal-img::before {
+        right: 16%;
+        bottom: -4%;
+        width: 73px;
+        height: 110px;
+    }
+
+    .icon-b {
+        right: 0%;
+    }
+
+    .icon-a {
+        left: 0%;
+    }
+
+    .sec-3-text h2 {
+        font-size: 18px;
+    }
+
+    .content-tech h3 {
+        font-size: 20px;
+    }
+
+    .content-tech p {
+        font-size: 12px;
+        line-height: normal;
+    }
+
+    .content-tech br {
+        display: none;
+    }
+
+    .content-tech2 p {
+        font-size: 14px;
+        padding-top: 0px;
+    }
+
+
+}
+
+@media (max-width: 367px) {
+    .head-btn {
+        padding: 7px 11px;
+        font-size: 13px;
+        border-radius: 12px;
+    }
+
+    .text-head {
+        line-height: normal;
+        font-size: 13px;
+
+    }
+
+    .col-lg-6 .with-chicago-content,
+    .col-lg-6 .Startups_content {
+        padding: 0px 0em;
+    }
+
+    .content-tech2 .tech_img {
+        margin-left: 0em;
+        width: 80px;
+    }
+
+    .section-1 {
+        padding-bottom: 25px;
+    }
+
+    .cage_text {
+        font-size: 12px;
+    }
+
+    .slide {
+        padding: 8px;
+
+    }
+
+    .section-5 {
+        padding: 30px 0px 30px 0px;
+    }
+
+
+    .sec-2-right ul li:nth-child(1) {
+        margin-left: 11px;
+    }
+
+    .sec-2-right ul li:nth-child(2) {
+        margin-left: 55px;
+    }
+
+    .sec-2-right ul li:nth-child(4) {
+        margin-left: 52px;
+    }
+
+    .sec-2-right ul li:nth-child(6) {
+        margin-left: 44px;
+    }
+
+    .sec-2-right ul li:nth-child(5) {
+        margin-left: 0px;
+    }
+
+    .rotat {
+        display: none;
+    }
+
+    .box1 p {
+        font-size: 8px;
+    }
+
+    .box1 {
+        width: 79px;
+        min-height: 70px;
+    }
+
+    .box2 {
+        width: 83px;
+        min-height: 75px;
+    }
+
+    .box2 span,
+    .box3 span {
+        font-size: 9px;
+    }
+
+    .box2 p,
+    .box1 span,
+    .box3 p {
+        font-size: 14px;
+    }
+
+    .box3 {
+        width: 82px;
+        min-height: 69px;
+    }
+
+    .round2 {
+        right: 31%;
+    }
+
+    .person_img2 img {
+        margin-left: 2.5rem;
+    }
+
+    .home-img-3 {
+        right: 0%;
+    }
+
+    .person_img img {
+        max-width: 220px;
+    }
+
+    .path_text h1 {
+        max-width: 100%;
+    }
+
+    .Typeform_Quiz_iFrame h6 {
+        font-size: 18px;
+    }
+
+    .person_img2 img {
+        max-width: 70px;
+    }
+
+    .home-img-3 img {
+        max-width: 60px;
+    }
+
+
+    img[ alt=land-img-4] {
+        max-width: 66%;
+    }
+
+    .Typeform_Quiz_iFrame {
+        min-height: 220px;
+    }
+
+    .want_text h3 {
+        font-size: 20px;
+    }
+
+    .want_text p {
+        font-size: 14px;
+    }
+
+    .sec-3-right .col-6 {
+        width: 100%;
+    }
+
+    img[ alt=land],
+    img[ alt=land-img-5],
+    img[ alt=land-img-4],
+    img[ alt=land-img-6],
+    img[ alt=you-raed-img] {
+        max-width: 56%;
+    }
+
+    img[ alt=land-img-4] {
+        max-width: 67% !important;
+    }
+
+}
